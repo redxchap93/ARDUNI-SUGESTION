@@ -1,2 +1,3 @@
-picamera
-unittest
+flask
+joblib
+scikit-learn
